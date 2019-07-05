@@ -1,0 +1,14 @@
+{
+  "name": "jsdom-form-attribute",
+  "version": "1.0.0",
+  "description": "Form elements defined outside hierarchy with form='form-id' are not captured by form.elements",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Finn Thompson",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdom": "^15.1.1"
+  }
+}
